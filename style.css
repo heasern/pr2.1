@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url(image/kosmos.jpg) no-repeat;
+}
+header {
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+section {
+    padding: 20px;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+ h3 {
+    color:#333;
+} 
+ h1, h2 {
+    color: #fff;
+}
+.box-img {
+    width: 200px;
+    height: 200px;
+}
+.fig {
+width: 30px;
+height: 30px;}
